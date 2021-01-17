@@ -1,4 +1,4 @@
-# d678h.github.io
+---
 Ciao benvenuto nel mio sito! Io sono d678h sono un aspirante sviluppatore e, ogni tanto, scrivo articoli. 
 # Progetti
 
@@ -16,3 +16,4 @@ Ciao benvenuto nel mio sito! Io sono d678h sono un aspirante sviluppatore e, ogn
  - [Instagram](https://instagram.com/d678h.py)
  - [GitHub](https://github.com/d678h)
  - [GitLab](https://gitlab.com/d678h)
+ ---
