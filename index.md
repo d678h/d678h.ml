@@ -1,4 +1,3 @@
----
 Ciao benvenuto nel mio sito! Io sono d678h sono un aspirante sviluppatore e, ogni tanto, scrivo articoli. 
 # Progetti
 
