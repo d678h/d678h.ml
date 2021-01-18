@@ -2,7 +2,7 @@ Ciao benvenuto nel mio sito! Io sono d678h sono un aspirante sviluppatore e, ogn
 # Progetti
 
  - [JeCam](https://github.com/d678h/JeCam)(punta ad essere una fotocamera minimal per i dispositivi più datati);
- - [d678h.github.io](https://github.com/d678h/d678h.github.io)(codice sorgente).
+ - [https://d678h.ml/](https://github.com/d678h/d678h.ml)(codice sorgente).
  - [Progetto Raccolta Windows ISO (it-it)](https://mega.nz/folder/P9EGWL4C#anG3fEEuAiKiQ5DhAlji6g)
  
 # GitLab Page (work in progress)
